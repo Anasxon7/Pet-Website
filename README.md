@@ -1,2 +1,2 @@
 # Pet-Websit
-[preview.png]
+![Pet](./preview.png)
